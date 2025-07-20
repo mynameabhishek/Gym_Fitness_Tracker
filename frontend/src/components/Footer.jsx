@@ -3,7 +3,7 @@ import React from 'react'
 const Footer = () => {
   return (
     <footer>
-        Designed And Developed By Abhishek Pandey
+        Designed And Developed By Abhi Pandey
     </footer>
   )
 }
